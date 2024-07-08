@@ -5,15 +5,15 @@
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "privacyStatement": "https://finnpedersenkazes.github.io/",
+  "EULA": "https://finnpedersenkazes.github.io/",
+  "help": "https://finnpedersenkazes.github.io/",
+  "url": "https://finnpedersenkazes.github.io/",
+  "logo": "Logo.png",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "24.0.0.0",
   "idRanges": [
     {
       "from": 55100,
@@ -25,7 +25,9 @@
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  }
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "contextSensitiveHelpUrl": "https://finnpedersenkazes.github.io/",
+  "runtime": "13.0"
 }
