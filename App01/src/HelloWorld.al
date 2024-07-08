@@ -5,8 +5,10 @@
 pageextension 55000 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
+    var
+        AppPublishedMsg: Label 'App published: Hello from App01 in the AL-Go Workshop!';
     begin
-        Message('App published: Hello from App01 in the AL-Go Workshop!');
+        Message(AppPublishedMsg);
     end;
 }
 
