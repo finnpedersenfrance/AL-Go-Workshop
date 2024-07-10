@@ -17,8 +17,8 @@ This workshop shows you how to take advantage of the functionality, which is pro
 - [ ] Continuous Delivery - Setup AL-Go for GitHub to deliver your apps whereever you like.
 - [ ] Continuous Deployment - Setup AL-Go for GitHub to deploy your apps to a Business Central environment.
 - [ ] Publish to Production - Publish your apps to a production environment securely.
-- [ ] Automated Tests - Add automated testing to your project.
-- [ ] Scheduled test runs - Testing your app against the latest (and future Business Central versions) daily or weekly.
+- [X] Automated Tests - Add automated testing to your project.
+- [X] Scheduled test runs - Testing your app against the latest (and future Business Central versions) daily or weekly.
 - [ ] Performance Testing - FUTURE TOPIC: Add performance tests to your daily test runs.
 - [ ] Reference Documentation Generation - Keep your reference documentation up-to-date.
 - [ ] Delevelopment Environments - FUTURE TOPIC: How to setup a development environment for a project.
